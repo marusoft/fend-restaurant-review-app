@@ -279,13 +279,13 @@ nav h1 a {
 @media screen and (max-width: 599px){
   nav{
     height: 60px;
+    padding: 22px;
     display: flex;
+  }
+  #map {
+    height: 300px;
+    width: 100%;
+    padding: 22px;
   }
 }
 
-@media screen and (max-width: 320px){
-  nav{
-    padding: 22px;
-    height: 45px;
-  }
-}
