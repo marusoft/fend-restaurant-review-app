@@ -1,10 +1,12 @@
-/* for medium devices between 600px - 1023px. */
-  .filter-options {
-    width: 100%;
-    height: 100%;
-    background-color: #3397DB;
-    align-items: center;
-    /* top and bottom : 10px padding */
-    /* left and right: 0px padding */
-    padding: 10px 0; 
-  }
+/* for medium devices with minimum width 0f 600px */
+@media screen and (min-width: 600px) {
+    .filter-options {
+        width: 100%;
+        height: 100%;
+        background-color: #3397DB;
+        align-items: center;
+        /* top and bottom : 10px padding */
+        /* left and right: 0px padding */
+        /* padding: 10px 0; */
+    }
+}
