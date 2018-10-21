@@ -28,4 +28,10 @@
         max-width: 350px;
         padding: 25px;
     }
+
+    .inside #footer {
+      padding: 20px;
+      width: 350px;
+      box-sizing: border-box;
+    }
 }
