@@ -29,9 +29,34 @@
         padding: 25px;
     }
 
+    .inside #map-container {
+        height: calc(100vh - 100px);
+        max-height: none;
+        position: fixed;
+        width: calc(100vw - 350px);
+        margin: 0;
+        left: 350px;
+        top: 100px;
+    }
+
+    #restaurant-container,
+    #reviews-container {
+        width: 350px;
+        box-sizing: border-box;
+        padding: 15px 15px 0px;
+    }
+
+    #reviews-container {
+        padding-bottom: 5px;
+    }
+
+    #restaurant-container {
+        margin-top: 100px
+    }
+
     .inside #footer {
-      padding: 20px;
-      width: 350px;
-      box-sizing: border-box;
+        padding: 20px;
+        width: 350px;
+        box-sizing: border-box;
     }
 }
