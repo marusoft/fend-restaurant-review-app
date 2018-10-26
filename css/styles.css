@@ -353,6 +353,8 @@ nav h1 a {
     color: #666;
 }
 
+/* skip to main content implementation */
+
 .skip-link {
     display: block;
     position: absolute;
