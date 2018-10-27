@@ -56,7 +56,7 @@
 
     .inside #footer {
         padding: 20px;
-        width: 350px;
+        width: 50%;
         box-sizing: border-box;
     }
 }
