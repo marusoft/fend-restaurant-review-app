@@ -1,5 +1,8 @@
 # Restaurant Review App
 ---
+
+(img/1.jpg)
+
 #### _Restaurant Reviews_
 
 ## Table of Contents
