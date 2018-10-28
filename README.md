@@ -76,7 +76,7 @@ If you don't have Python installed, [Download and Install Python](https://www.py
 
 ## App link
 
-[Load](https://github.com/marusoft/fend-restaurant-review-app)
+[Load](https://marusoft.github.io/fend-restaurant-review-app/)
 
 ## Author
 
