@@ -1,7 +1,7 @@
 # Restaurant Review App
 ---
 
-[img/1.jpg]
+![Restaurant](./img/1.jpg)
 
 #### _Restaurant Reviews_
 
