@@ -7,18 +7,3 @@ if (navigator.serviceWorker) {
         console.log("Couldn't register service worker... \n", e);
     });
 }
-
-
-// if('serviceWorker' in navigator){
-//   window.addEventListener("load", () => {
-//   navigator.serviceWorker.register('/Restaurant-Review-App/sw.js')
-//   .then((res) => {
-//     console.log(res);
-//   console.log( "Registration successful");
-// })
-//   .catch((err) => {
-//     console.log(err);
-//     console.log("Registration not successful");
-//   })
-//    });
-// }

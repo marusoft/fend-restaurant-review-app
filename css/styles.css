@@ -1,7 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
 
-body, td, th, p {
+body,
+td,
+th,
+p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10pt;
     color: #333;
@@ -14,7 +17,8 @@ body {
     position: relative;
 }
 
-ul, li {
+ul,
+li {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10pt;
     color: #333;
@@ -25,7 +29,8 @@ a {
     text-decoration: none;
 }
 
-a:hover, a:focus {
+a:hover,
+a:focus {
     color: #3397db;
     text-decoration: none;
 }
@@ -34,12 +39,28 @@ a img {
     border: none 0px #fff;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0 0 20px;
 }
 
-article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
     display: block;
 }
 
@@ -160,7 +181,8 @@ nav h1 a {
     box-sizing: border-box;
 }
 
-.filter-options select:hover, .filter-options select:focus {
+.filter-options select:hover,
+.filter-options select:focus {
     background-color: #7d97ad;
 }
 
@@ -228,7 +250,8 @@ nav h1 a {
     box-sizing: border-box;
 }
 
-#restaurants-list li a:hover, #restaurants-list li a:focus {
+#restaurants-list li a:hover,
+#restaurants-list li a:focus {
     background-color: #DC143C;
 }
 
@@ -296,7 +319,8 @@ nav h1 a {
     width: 100%;
 }
 
-#restaurant-container, #reviews-container {
+#restaurant-container,
+#reviews-container {
     width: 100%;
     box-sizing: border-box;
     padding: 25px 25px 0px;
@@ -337,7 +361,8 @@ nav h1 a {
     padding: 10px;
 }
 
-#reviews-list li p:first-child, #reviews-list li p:nth-child(2) {
+#reviews-list li p:first-child,
+#reviews-list li p:nth-child(2) {
     color: white;
     display: inline-block;
     width: 50%;

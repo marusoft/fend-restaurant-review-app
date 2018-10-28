@@ -21,10 +21,6 @@ self.addEventListener('install', function(event) {
         '/js/restaurant_info.js',
         'js/register-sw.js',
         'data/restaurants.json'
-        // add other static assets here like logos, svg icons or any
-        // other asset needed for your app UI 
-        // (Don't add restaurant images, as they are not part of your
-        // application's UI)
       ]);
     })
   );
