@@ -1,4 +1,4 @@
-const appName = "fend-restaurant-reviews-app"
+const appName = "fend-restaurant-review-app"
 const staticCacheName = appName + "-v1.0";
 
 const contentImgsCache = appName + "-images";
