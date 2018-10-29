@@ -1,4 +1,3 @@
-
 const appName = "fend-restaurant-reviews-app"
 const staticCacheName = appName + "-v1.0";
 
